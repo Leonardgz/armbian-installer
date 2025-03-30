@@ -5,4 +5,5 @@
 #### 安装器中的Armbian系统
 #### web地址:插好网线 详见屏幕信息
 #### ssh默认用户名 `root` 密码：admin123
+IP地址：10.0.0.2
 #### Armbian镜像出处:https://github.com/wukongdaily/armbian-installer/releases/tag/2025-03-12
